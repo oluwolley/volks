@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600');
+
+body,html{
+margin:0 0.5%;
+padding: 0;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+li{
+   font-size: 16px;
+   font-weight: 700;
+   font-family: 'Montserrat', sans-serif;
+   margin-top:3%;
+  
+}
+.nav a{
+     margin-top:1%;
+     float: left;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+}
+
+
+a:visited { 
+    color: #551A8B;
+    text-decoration: none; }
+
+ul li{
+display: inline-block;
+float:right;
+ margin-top:1.2%;
+padding: 0px;
+
+}
+
+li:nth-child(2){
+margin-right:10%;
+
+}
+
+li:nth-child(4){
+margin-right:5%;
+
+}
+
+li:nth-child(3){
+margin-right:19.5%;
+
+}
+
+li:nth-child(1){
+margin-right:5%;
+
+}
+
+img{
+height: 70%;
+width: 70%;
+border-radius: 10px;
+
+}
+.main-content {
+margin-left: -10%;
+}
+
+.main-content h1{
+  font-family: 'Lora', serif;
+    font-size: 54px;
+    font-weight: 400;
+    margin-top:20%;
+    line-height:60px;
+    
+}
+.main-content p{
+    margin-top:10%;
+    font-size: 12px;
+     line-height: 25px;
+    
+}
+.main{
+    
+    margin-top:3%;
+}
+
+
+.vertical p { -webkit-transform: rotate(-90deg);
+       font-size: 32px;
+       position:relative;
+        left: -800px;
+        bottom: 200px;
+       font-family: 'Lora', serif;
+
+}
+
+vertical b{  writing-mode: tb-rl;}
+b{ 
+   padding: 20px}
+.vertical-two p{
+    -webkit-transform: rotate(-90deg);
+       font-size: 14px;
+       font-weight: 700;
+       position:relative;
+       right:-420px;
+       bottom: 500px;
+
+}
+.facebook, .instagram {  
+    padding-top: 10%;
+   
+}
+
+.foot{
+    margin-top:-280px;
+  
+}
+
+.foot .h1{
+    width:400px;
+    height:100px;
+    background-color: currentColor;
+    margin-left:55%;
+    
+
+}
+
+.foot p{
+    color: white;
+    font-size: 12px;
+    padding: 12%
+}
+.foot span{
+padding: 25%
+}
+
+.foot i{
+    margin-top:14%;
+    margin-left:6%;
+    font-size: 18px;
+    padding: 7%;
+}
+
+
+    
+
+
